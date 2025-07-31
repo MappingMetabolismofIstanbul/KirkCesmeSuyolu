@@ -53,7 +53,7 @@ var config = {
         },
         {
             id: 'second-identifier',
-            alignment: 'centered',
+            alignment: 'left',
             hidden: false,
             title: '',
             image: 'https://i.ibb.co/KJ0GY32/MEF-AAP-027-BAP-2025-07-15-12-28-28.png',
@@ -78,7 +78,7 @@ var config = {
         },
         {
             id: 'third-identifier',
-            alignment: 'centered',
+            alignment: 'right',
             hidden: false,
             title: '',
             image: 'https://i.ibb.co/DgDj8947/MEF-AAP-027-BAP-2025-07-15-12-29-34.png',
