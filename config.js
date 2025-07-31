@@ -138,7 +138,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: '',
-            image: 'https://i.ibb.co/Z64vkT3t/MEF-AAP-027-BAP-2025-07-15-12-34-43.png',
+            image: 'https://i.ibb.co/BH8F1QRh/MEF-AAP-027-BAP-2025-07-31-09-18-00.png',
             description: '',
             location: {
                 center: [28.980, 41.008],
